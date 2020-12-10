@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Cake banane"
-tags: gateau, cake, banane
+tags: gateau, cake, banane, dessert
 
 ingredients:
 - 3 bananes
