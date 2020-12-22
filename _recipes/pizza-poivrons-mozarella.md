@@ -13,7 +13,6 @@ ingredients pour la pâte:
 - 1 c a café de sucre
 - 1 c à café de sel
 
-ingredients:
 - 200gr de sauce tomate
 - Mozzarella
 - Fromage rapé
