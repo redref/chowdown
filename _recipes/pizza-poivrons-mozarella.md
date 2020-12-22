@@ -8,14 +8,12 @@ image: pizza-vegetarienne.jpg
 ingredients:
 
 Pour la pâte
-
 - 250gr de farine
 - 125ml d'eau tiède
 - 40 ml d'huile d'olive
 - 10g de levure fraiche
 - 1 c a café de sucre
 - 1 c à café de sel
-
 - 200gr de sauce tomate
 - Mozzarella
 - Fromage rapé
@@ -46,8 +44,8 @@ Pour la Pizza
 - puis le fromage rapée
 - Enfourner 10-12 min à 200°C
 
-
 ---
+
 Cette recette est élaborée a partir d'une recette de base elle peut bien sûr se demultiplier en énormement de pizzas différentes chorizo, jambon blanc, poulet ...
 
 Recette pour 4 belles portions
