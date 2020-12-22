@@ -7,7 +7,7 @@ image: pizza-vegetarienne.jpg
 
 ingredients:
 
-Pour la pâte
+- Pour la pâte
 - 250gr de farine
 - 125ml d'eau tiède
 - 40 ml d'huile d'olive
@@ -24,7 +24,7 @@ Pour la pâte
 - Basilic
 
 directions:
-Pour la pâte à pizza
+- Pour la pâte à pizza
 - Chauffer l'eau quelques secondes dans la micro-ondes et dissoudre la lévure, en rajoutant une cuillère à café de sucre
 - Dans un bol mettre la farine et faire un puits au milieu, rajouter une cuillère de sel à l'extremité du bol
 - Rajouter l'eau avec la levure et l'huile d'olive, travailler le tout au robot 2 fois 5 minutes
@@ -32,7 +32,7 @@ Pour la pâte à pizza
 pendant 1h
 - Une fois levé on degasifie notre pâte sur un plan de travail enfariné puis on divise en 2 pour deux pizzas moyennes ou alors on laisse en une seule, et on laisse a nouveau pousser pendant 15 min au four
 - Étaler la pâte suivant la form souhaité
-Pour la Pizza
+- Pour la Pizza
 - Frire la sauce tomate et y rajouter le basilic et l'origan
 - Tailler les oignons en juliennes très fines
 - Vider et tailler les poivrons en juliennes fines
